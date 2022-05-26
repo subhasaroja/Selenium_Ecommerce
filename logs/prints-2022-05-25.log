@@ -1,0 +1,5 @@
+17:18:39.524 [main] INFO  com.mystore.utility.Log - =====================================loginTest TEST START=========================================
+17:18:39.528 [main] INFO  com.mystore.utility.Log - user is going to click on SignIn
+17:18:46.320 [main] INFO  com.mystore.utility.Log - Verifying if user is able to login
+17:18:46.320 [main] INFO  com.mystore.utility.Log - Login is Sucess
+17:18:46.321 [main] INFO  com.mystore.utility.Log - =====================================loginTest TEST END=========================================
